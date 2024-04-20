@@ -1,3 +1,3 @@
-<h3> Role Playing Game - JS </h3>
-<hr>
-// A game in which a player is figting with monster!
+<h3><b> Role Playing Game - JS </b></h3>
+<hr><br>
+# A game in which a player is figting with monster!
